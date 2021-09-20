@@ -11,36 +11,36 @@ You can find the documentation for running this example and its accompanying tut
 
 ## Quick start with Kafka
 
-![Alt text](screenshots/KafkaQuick.jpg?raw=true "Title")
+![Alt text](Screenshots/KafkaQuick.jpg?raw=true "Title")
 
 ## Start confluent containers
 
-![Alt text](screenshots/DockerContainers.jpg?raw=true "Title")
+![Alt text](Screenshots/DockerContainers.jpg?raw=true "Title")
 
 ## Create the Clickstream Data
 
-![Alt text](screenshots/CreateClickstreamData.jpg?raw=true "Title")
+![Alt text](Screenshots/CreateClickstreamData.jpg?raw=true "Title")
 
 ## Check the Clickstream Data
 
-![Alt text](screenshots/DataCheck.jpg?raw=true "Title")
+![Alt text](Screenshots/DataCheck.jpg?raw=true "Title")
 
 ## Load the Streaming Data to ksqlDB
 
-![Alt text](screenshots/LoadDataToKsqlDB.jpg?raw=true "Title")
+![Alt text](Screenshots/LoadDataToKsqlDB.jpg?raw=true "Title")
 
 ## Check the Streams and Tables in ksqlDB
 
-![Alt text](screenshots/ChechTablesAndStreams.jpg?raw=true "Title")
+![Alt text](Screenshots/ChechTablesAndStreams.jpg?raw=true "Title")
 
 ## Verify the data
 
-![Alt text](screenshots/CheckStreamData.jpg?raw=true "Title")
+![Alt text](Screenshots/CheckStreamData.jpg?raw=true "Title")
 
 ## Load the Clickstream Data in Grafana
 
-![Alt text](screenshots/Grafana.jpg?raw=true "Title")
+![Alt text](Screenshots/Grafana.jpg?raw=true "Title")
 
 ## Sessionize the data
 
-![Alt text](screenshots/Grafana2.jpg?raw=true "Title")
+![Alt text](Screenshots/Grafana2.jpg?raw=true "Title")
